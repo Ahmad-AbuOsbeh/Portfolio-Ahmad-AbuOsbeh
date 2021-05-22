@@ -230,3 +230,60 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 # my deployed site on netlify :
 https://portfolio-ahmad-abu-osbeh.netlify.app/
+
+## estimated and actual time for the lab :
+
+### feature number 1
+Number and name of feature: feature 1, create the template repo and deploying on netlify
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 7:00 pm
+
+Finish time: 7:35 pm
+
+Actual time needed to complete: 35 mins
+
+### feature number 2
+Number and name of feature: feature 2, updating my data into the react app
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 9:00 pm
+
+Finish time: 10:00 pm
+
+Actual time needed to complete: 1 hour
+
+### feature number 3
+Number and name of feature: feature 3, updating nav and header data in my page
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 10:00 pm
+
+Finish time: 10:32 pm
+
+Actual time needed to complete: 32 mins
+
+### feature number 4
+Number and name of feature: feature 4, adding my previous projects and description
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 10:32 pm
+
+Finish time: 11:00 pm
+
+Actual time needed to complete: 28 mins
+
+### feature number 5
+Number and name of feature: feature 5, adding some styling and adding images about the projects
+
+Estimate of time needed to complete: 15 mins
+
+Start time: 11:00 pm
+
+Finish time: 11:15 pm
+
+Actual time needed to complete: 15 mins
